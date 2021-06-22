@@ -1,1 +1,1 @@
-# abcd
+Sequelized based Student Management ORM
